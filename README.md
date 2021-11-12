@@ -16,6 +16,7 @@ controls:<br>
 [W,A,S,D] for player 1 movement\narrow keys for player 2 movement\n[ESC] quit<br>
 <br>
 bugs:<br>
-you must spam the key to move without stopping<br>
+-You must spam the key to move without stopping<br>
+-The window doesnt resize and will look stretched or squashed depending on user's screen resolution.
 <br>
 have fun!<br>
